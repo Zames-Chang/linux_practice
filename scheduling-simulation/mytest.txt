@@ -1,0 +1,4 @@
+add task1 -t L -p L
+add task2 -t S -p L
+add task3 -t L -p H
+add task4 -t S -p H 
